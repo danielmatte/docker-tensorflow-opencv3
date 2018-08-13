@@ -6,7 +6,7 @@ GPU_DOCKER_FILE=Dockerfile.gpu
 SVC=tensorflow-opencv-py3
 VERSION_CPU=latest-cpu
 VERSION_GPU=latest-gpu
-REGISTRY_URL=so77id
+REGISTRY_URL=dfreitas
 
 
 build-cpu bc:
