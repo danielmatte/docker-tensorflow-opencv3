@@ -4,7 +4,7 @@ MAINTAINER Daniel M. Freitas <danielmatte@gmail.com>
 
 RUN pip3 install keras
 
-ENV OPENCV_VERSION 3.2.0
+ENV OPENCV_VERSION 3.4.2
 ENV NUM_CORES 50
 
 
